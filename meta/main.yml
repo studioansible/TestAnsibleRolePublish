@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: TestAnsibleRolePublish
+  role_name: test_ansible_role_publish
   author: StudioAnsible
   description: '-'
   company: '-'
