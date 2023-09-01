@@ -11,5 +11,13 @@ galaxy_info:
   galaxy_tags:
     - tag1
     - tag2
-  platforms: []
+  platforms:
+    - name: Windows
+      versions:
+        - '8'
+        - '10'
+        - '11'
+    - name: Ubuntu
+      versions:
+        - all
 dependencies: []
