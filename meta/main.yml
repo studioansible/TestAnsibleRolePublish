@@ -1,13 +1,13 @@
 galaxy_info:
   role_name: test_ansible_role_publish
   author: StudioAnsible
-  description: '-'
-  company: '-'
-  issue_tracker_url: '-'
-  license: MIT
-  min_ansible_version: 0.0.1
-  min_ansible_container_version: 0.0.1
-  github_branch: master
+  description: ''
+  company: ''
+  issue_tracker_url: ''
+  license: ''
+  min_ansible_version: ''
+  min_ansible_container_version: ''
+  github_branch: ''
   galaxy_tags:
     - tag1
     - tag2
