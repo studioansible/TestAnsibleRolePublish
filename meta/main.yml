@@ -1,11 +1,11 @@
 galaxy_info:
-  role_name: test_ansible_role_publish
-  author: StudioAnsible
-  description: ''
+  role_name: ''
+  author: ''
+  description: done
   company: ''
   issue_tracker_url: ''
-  license: ''
-  min_ansible_version: ''
+  license: done
+  min_ansible_version: done
   min_ansible_container_version: ''
   github_branch: ''
   galaxy_tags:
